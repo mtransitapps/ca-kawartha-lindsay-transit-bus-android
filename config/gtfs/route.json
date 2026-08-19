@@ -1,7 +1,32 @@
 {
     "default_route_id_enabled": true,
-    "use_route_short_name_for_route_id": true,
+    "use_route_short_name_for_route_id": false,
     "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "route_colors": [
+        {
+            "route_id": "4",
+            "route_short_name": "Blue",
+            "color": "204D9D"
+        },
+        {
+            "route_id": "5",
+            "route_short_name": "Green",
+            "color": "48A25A"
+        },
+        {
+            "route_id": "6",
+            "route_short_name": "Red",
+            "color": "AF3430"
+        },
+        {
+            "route_id": "7",
+            "route_short_name": "Orange",
+            "color": "E57E33"
+        }
+    ],
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
