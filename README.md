@@ -25,5 +25,5 @@
 
 ## Privacy Policy
 
-[Privacy Policy](https://mtransitapps.github.io/privacy)
+* [Privacy Policy](https://mtransitapps.github.io/privacy)
 
